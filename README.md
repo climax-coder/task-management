@@ -9,7 +9,7 @@
 - The ability to edit or delete tasks.
 
 ### Backend
-- Full Stack - Mid-level 2
+- Full Stack - Mid-level
 - Creating a new task.
 - Retrieving a list of tasks.
 - Updating an existing task.
