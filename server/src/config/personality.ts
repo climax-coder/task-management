@@ -1,0 +1,18 @@
+export const personality = {
+  INTJ: "Architect",
+  INTP: "Logician",
+  ENTJ: "Commander",
+  ENTP: "Debater",
+  INFJ: "Advocate",
+  INFP: "Mediator",
+  ENFJ: "Protagonist",
+  ENFP: "Campainer",
+  ISTJ: "Logistician",
+  ISFJ: "Defender",
+  ESTJ: "Executive",
+  ESFJ: "Consul",
+  ISTP: "Virtuoso",
+  ISFP: "Adventurer",
+  ESTP: "Entrepreneur",
+  ESFP: "Entertainer",
+};
